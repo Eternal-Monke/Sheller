@@ -12,4 +12,9 @@ This is my custom shell
   $ brew install readline
 ```
 
-NOTE: This does not support scripting in the shell termainal just yet
+| Operation | Exists |
+| --- | --- |
+| Command History | ✔ |
+| Custom Prompt | ✔ |
+| Prompt History | ✔ |
+| Terminal Scripting | ✕ |
