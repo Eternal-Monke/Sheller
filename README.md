@@ -6,4 +6,10 @@ This is my custom shell
   $ gcc -o sheller sheller.c -lreadline
 ```
 
-NOTE: This does not support scripting in the shell termainl just yet
+## installing Readline
+### Mac
+```shell
+  $ brew install readline
+```
+
+NOTE: This does not support scripting in the shell termainal just yet
